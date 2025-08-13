@@ -1,0 +1,69 @@
+		div_code
+		sci_name
+		source
+		gene_id
+		gene_title
+		version
+		gene_bp_no
+		cds
+		gene_no
+		introns
+		exons
+		protien_name
+		protien_id
+		protien_symbol
+		protien_bp_no
+		disease
+		creation_date
+		pubmed_id
+		fasta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hox Genes (e.g., HOXA1,): These genes are involved in the regulation of embryonic development and are found in animals, including humans. 
+
+Hox Genes (e.g., HOXA2,): These genes are involved in the regulation of embryonic development and are found in animals, including humans.
+
+BRCA1 (Breast Cancer 1): This gene is associated with an increased risk of breast and ovarian cancers when mutated. It plays a role in DNA repair.
+
+TP53 (Tumor Protein p53): Also known as the "guardian of the genome," this gene regulates the cell cycle and prevents the formation of tumors.
+
+INS (Insulin): The insulin gene codes for the hormone insulin, which is crucial for regulating blood sugar levels.
+
+CFTR (Cystic Fibrosis Transmembrane Conductance Regulator): Mutations in this gene lead to cystic fibrosis, a genetic disorder affecting the respiratory and digestive systems.
+
+MYH7 (Myosin Heavy Chain 7): This gene is involved in muscle contraction and is associated with various muscle-related disorders.
+
+EGFR (Epidermal Growth Factor Receptor): This gene codes for a receptor involved in cell growth and proliferation. Mutations can contribute to cancer development.
+
+PTEN (Phosphatase and Tensin Homolog): This gene acts as a tumor suppressor, helping to regulate cell growth and prevent the formation of tumors.
+
+FOXP2 (Forkhead Box P2): Known as the "language gene," FOXP2 is associated with language development and speech.
+
+ALDH2 (Aldehyde Dehydrogenase 2): This gene plays a role in alcohol metabolism, and variations can affect an individual's tolerance to alcohol.
